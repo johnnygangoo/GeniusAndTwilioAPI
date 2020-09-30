@@ -1,7 +1,7 @@
 //This will display the lyrics to the specified song on your local host
 //You will have to install node and "npm install genius-lyrics-api"
 //to start the server you MUST have node installed
-//from there you simple write "nodemon geniusAPI.js" in your CLI
+//from there you simply write "nodemon geniusAPI.js" in your CLI
 //in my case I used Ubuntu's bash CLI
 
 //then go to your browser and type localhost:3000/uzi to display the lyrics
